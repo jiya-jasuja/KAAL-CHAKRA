@@ -1,0 +1,6 @@
+{
+  "name": "Kessler Atlas",
+  "description": "Real-time 3D orbital debris observatory with SGP4 telemetry, zoomable optical tracking camera, and live conjunction API.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
